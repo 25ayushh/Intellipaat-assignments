@@ -1,4 +1,4 @@
-# Intellipaat-assignments
+# Intellipaat Assignments
 Given Assignments by intellipaat for internships
 
 • Performed Vulnerability Assessment and Network Security Testing using Nmap, Nessus, OpenVAS, and Qualys
